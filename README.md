@@ -6,7 +6,7 @@
 
 git clone https://github.com/Genesis5500/DeckPSNowInstaller.git
 
-cd PSNowInstaller
+cd DeckPSNowInstaller
 
 chmod +x PSNowInstaller
 
