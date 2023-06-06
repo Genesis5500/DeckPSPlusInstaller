@@ -16,3 +16,4 @@
  5. Check "Force the use of a specific Steam Play compatability tool
  6. Select "Proton-6.21-GE-2"
  7. Play!
+
