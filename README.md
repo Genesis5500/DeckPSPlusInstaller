@@ -5,13 +5,13 @@
 1. Enter desktop mode
 2. Open Konsole and run the following commands
 
+```bash
 git clone https://github.com/Genesis5500/DeckPSNowInstaller.git
-
 cd DeckPSNowInstaller
-
 chmod +x PSNowInstaller
-
 ./PSNowInstaller
+```
+
 
 **Video below shows the final steps**
 
