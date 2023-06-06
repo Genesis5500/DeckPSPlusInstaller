@@ -11,7 +11,7 @@
 **What you have to do:**
  1. Make the script executable using chmod +x PSNowInstaller
  2. Run script using ./PSNowInstaller
- **-- View video below for these directions if needed**
+ **View video below for these directions if needed**
  4. Once complete, select the created Steam shortcut
  5. Click on Properties -> Compatability
  6. Check "Force the use of a specific Steam Play compatability tool
