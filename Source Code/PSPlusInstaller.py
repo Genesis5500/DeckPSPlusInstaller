@@ -77,7 +77,7 @@ def checkpsplusextracted():
         return True
     return False
 
-def getpsplusfiles():
+async def getpsplusfiles():
     print('Checking for PSPlus zip file... ')
     if checkpsplusextracted() is True:
         print('PS Plus already extracted!')
@@ -87,12 +87,12 @@ def getpsplusfiles():
         try:
             url = "https://drive.google.com/file/d/1hB_ltEpXYTS2hYFXb9qwQsuia063AyRT/view?usp=sharing"
             gdown.download(url=url, output=output, fuzzy=True)
-            getpsplusfiles()
+            await getpsplusfiles()
         except Exception as e:
             print(e)
     else:
         print('Found!')
-        checkifpsplusextracted()
+        await checkifpsplusextracted()
 
 async def checkifpsplusextracted():
     if os.path.isdir(str(Path.home()) + '/PS Now/'):
@@ -123,7 +123,7 @@ async def main():
 
     try:
         if (checkprotoninstall() is True):
-            getpsplusfiles()
+            await getpsplusfiles()
             if (shortcut.shortcut_exists() is True):
                 print('Shortcut already added to Steam.')
             else:
