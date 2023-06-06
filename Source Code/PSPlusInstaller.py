@@ -35,7 +35,7 @@ def checkforprotonzip():
         print("Found Proton zip! Checking if Steam compat folder exists... ")
         return  True
 
-def DownloadProton():
+async def DownloadProton():
     # Download the Proton tar
     try:
         wget.download(PROTONURL, bar=bar_progress)
@@ -94,14 +94,14 @@ def getpsplusfiles():
         print('Found!')
         checkifpsplusextracted()
 
-def checkifpsplusextracted():
+async def checkifpsplusextracted():
     if os.path.isdir(str(Path.home()) + '/PS Now/'):
         print('PS Now already extracted properly!')
     else:
         print('Zip not extracted! Extracting now... ')
-        extractpsplusfiles()
+        await extractpsplusfiles()
 
-def extractpsplusfiles():
+async def extractpsplusfiles():
     file = tarfile.open(PSPLUSTAR)
     # extracting file to compat tools
     file.extractall(Path.home())
@@ -114,7 +114,7 @@ async def main():
 
     if checkforprotonzip() is False and checkprotoninstall() is False:
         try:
-            DownloadProton()
+            await DownloadProton()
         except Exception as e:
             print(e)
 
@@ -134,10 +134,3 @@ async def main():
         print(e)
 
 asyncio.run(main())
-
-
-
-
-
-
-
