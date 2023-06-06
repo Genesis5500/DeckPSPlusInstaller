@@ -14,8 +14,8 @@ chmod +x PSNowInstaller
 ./PSNowInstaller
 
 **Video below shows the final steps**
+https://github.com/Genesis5500/DeckPSNowInstaller/assets/135434827/cd5c07b8-5913-4f02-a35d-7e7cc1c3bf62
 
-https://github.com/Genesis5500/DeckPSNowInstaller/assets/135434827/a485022d-b91f-4b4a-a0fc-faf896ea1d2d
 
 **What this script does:**
 1. Looks for specific Proton version with PSPlus hotfix
