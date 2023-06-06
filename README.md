@@ -3,9 +3,13 @@
 
 **What you have to do:**
 **Run the following commands**
+
 git clone https://github.com/Genesis5500/DeckPSNowInstaller.git
+
 cd PSNowInstaller
+
 chmod +x PSNowInstaller
+
 ./PSNowInstaller
 
 **Video below shows steps 3 - 7**
