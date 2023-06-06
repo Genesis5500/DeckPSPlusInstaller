@@ -14,6 +14,7 @@ chmod +x PSNowInstaller
 ./PSNowInstaller
 
 **Video below shows the final steps**
+
 https://github.com/Genesis5500/DeckPSNowInstaller/assets/135434827/cd5c07b8-5913-4f02-a35d-7e7cc1c3bf62
 
 
