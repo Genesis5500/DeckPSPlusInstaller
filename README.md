@@ -1,5 +1,5 @@
 ******
-PS Plus SteamDeck Installer
+**PS Plus SteamDeck Installer**
 ******
 
 What this script does:
