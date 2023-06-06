@@ -1,6 +1,6 @@
-******
 **PS Plus SteamDeck Installer**
-******
+==============
+
 
 What this script does:
 1. Looks for specific Proton version with PSPlus hotfix
