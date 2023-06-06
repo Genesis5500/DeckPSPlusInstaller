@@ -28,3 +28,4 @@ https://github.com/Genesis5500/DeckPSNowInstaller/assets/135434827/f06b0423-61a2
 4. Downloads and extracts to HOME
 5. Sets Steam shortcut for application
 
+**Huge Shoutout to https://www.youtube.com/@SteamDeckGaming & the creators of Lutris for making this possible!**
