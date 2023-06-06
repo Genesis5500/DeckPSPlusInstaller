@@ -1,4 +1,4 @@
-"""Export lutris games to steam shortcuts""" ##
+"""Thank you to Lutris for the basis of these functions!""" ##
 import binascii
 import os
 import re
