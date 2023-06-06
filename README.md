@@ -2,13 +2,11 @@
 ==============
 
 **What you have to do:**
-1. Make the script executable using chmod +x PSNowInstaller
-2. Run script using ./PSNowInstaller
-3. Once complete, select the created Steam shortcut
-4. Click on Properties -> Compatability
-5. Check "Force the use of a specific Steam Play compatability tool
-6. Select "Proton-6.21-GE-2"
-7. Sign in (Possibly twice if necessary) & Play!
+**Run the following commands**
+git clone https://github.com/Genesis5500/DeckPSNowInstaller.git
+cd PSNowInstaller
+chmod +x PSNowInstaller
+./PSNowInstaller
 
 **Video below shows steps 3 - 7**
 
