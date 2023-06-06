@@ -14,5 +14,5 @@
  3. Once complete, select the created Steam shortcut
  4. Click on Properties -> Compatability
  5. Check "Force the use of a specific Steam Play compatability tool
- 6. Select "Proton-6.21-GE-2
+ 6. Select "Proton-6.21-GE-2"
  7. Play!
