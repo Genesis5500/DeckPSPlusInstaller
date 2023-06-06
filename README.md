@@ -10,3 +10,8 @@ What this script does:
 5. Sets Steam shortcut for application
 
 What you have to do:
+ 1. Select the created Steam shortcut
+ 2. Click on Properties -> Compatability
+ 3. Check "Force the use of a specific Steam Play compatability tool
+ 4. Select "Proton-6.21-GE-2
+ 5. Play!
