@@ -11,7 +11,6 @@
 7. Sign in (Possibly twice if necessary) & Play!
 
 **Video below shows steps 3 - 7
-
 https://github.com/Genesis5500/DeckPSNowInstaller/assets/135434827/a485022d-b91f-4b4a-a0fc-faf896ea1d2d
 
 **What this script does:**
