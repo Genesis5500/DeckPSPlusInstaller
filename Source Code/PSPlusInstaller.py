@@ -112,17 +112,17 @@ async def extractpsplusfiles():
 async def main():
     ssl._create_default_https_context = ssl._create_unverified_context
 
-    if checkforprotonzip() is False and checkprotoninstall() is False:
-        try:
-            await DownloadProton()
-        except Exception as e:
-            print(e)
+   # if checkforprotonzip() is False and checkprotoninstall() is False:
+      #  try:
+      #      await DownloadProton()
+       # except Exception as e:
+      #      print(e)
 
 
-    await checkforsteamcompattooldir()
+   # await checkforsteamcompattooldir()
 
     try:
-        if (checkprotoninstall() is True):
+     #   if (checkprotoninstall() is True):
             await getpsplusfiles()
             if (shortcut.shortcut_exists() is True):
                 print('Shortcut already added to Steam.')
