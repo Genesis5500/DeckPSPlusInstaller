@@ -33,5 +33,8 @@ https://github.com/Genesis5500/DeckPSPlusInstaller/assets/135434827/7f16ec8b-b00
 1. You may have to sign in twice, not sure the reasoning for this
 2. Once started, controller support should look like a TV & Controller icon in the top right hand corner of the sceen
 3. Keep clicking this using the touchpad until it responds, full-screen may work as well this way
+4. If the shortcut does not create itself in Steam, you can it manually by doing the following
+   1. Go to Steam -> Add non-steam game -> Browse -> Home/PS Now/psnowlaunher.exe
+   2. Add it and set to run with Proton Experimental
 
 **Huge Shoutout to https://www.youtube.com/@SteamDeckGaming & the creators of Lutris for making this possible!**
