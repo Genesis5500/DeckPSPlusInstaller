@@ -16,10 +16,7 @@ chmod +x PSPlusInstaller
 **When the script finishes**
 1. Return to Gaming mode
 2. Follow the steps in the below video and it should launch properly!
-
-https://github.com/Genesis5500/DeckPSNowInstaller/assets/135434827/f06b0423-61a2-4f90-8d69-46d55650dcf5
-
-
+https://github.com/Genesis5500/DeckPSPlusInstaller/assets/135434827/7f16ec8b-b005-4f91-85a1-e65063e5126b
 
 **What this script does:**
 1. Checks for PSPlus files and needed DLL
