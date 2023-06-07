@@ -15,7 +15,7 @@ chmod +x PSPlusInstaller
 
 **When the script finishes**
 1. Restart Steam from Desktop mode and find the PS Plus non-Steam game from your library
-2. Start the application
+2. Start the PS Now shortcut from Steam
 3. Right click on the Playstation icon from the system tray at the bottom of the screen
 4. Select "Graphics Settings"
 5. Uncheck "Optimize App performanace" and Apply
