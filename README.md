@@ -6,6 +6,7 @@
 https://youtu.be/NR02p9wZ6vI
 
 **Text Based Instructions**
+
 **What you have to do:**
 1. Enter desktop mode
 2. Open Konsole and run the following commands
