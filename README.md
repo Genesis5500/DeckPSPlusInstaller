@@ -5,7 +5,7 @@
 
 https://youtu.be/NR02p9wZ6vI
 
-**Text Based Instructions**
+**For Text Based Instructions Continue Below**
 
 **What you have to do:**
 1. Enter desktop mode
